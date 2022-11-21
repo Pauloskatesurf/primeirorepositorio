@@ -19,7 +19,7 @@ CSS baseado nelas */
 }
 
 #event-description{
-background: linear-gradient(rgba(0,0,0,.90), rgba(0,0,0,.80)), url(../img/garage.jpg); /*Escurecendo a imagem de fundo direto no CSS*/
+background: linear-gradient(rgba(0,0,0,.90), rgba(0,0,0,.80)), url(../garage.jpg); /*Escurecendo a imagem de fundo direto no CSS*/
 background-position: center; /*Centralizando a imagem*/
 background-size: cover; /*Aparecer o maximo possivel na area util*/
 height: 100vh; /*Altura em porcentagem ao tamanho da tela*/
